@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?pde version="3.5"?>
 
-<product name="RCP Demo" uid="com.diffplug.rcpdemo.product" id="com.diffplug.rcpdemo.product" application="com.diffplug.rcpdemo.application" version="1.0.0" useFeatures="false" includeLaunchers="false">
+<product name="RCP Demo" uid="com.diffplug.rcpdemo.product" id="com.diffplug.rcpdemo.product" application="com.diffplug.rcpdemo.application" version="1.0.0" useFeatures="false" includeLaunchers="true">
 
    <configIni use="default">
    </configIni>
